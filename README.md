@@ -125,10 +125,10 @@
   </a>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Exter007/MyUMonsSchedule">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exter007&repo=MyUMonsSchedule&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Nephty/Sokoban-Java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nephty&repo=Sokoban-Java&theme=tokyonight" />
 </a>
 
