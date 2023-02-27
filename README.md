@@ -104,6 +104,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
 </div>
 
+<!--
 ### Other tools
 
 <div id="devtools" alignment="left">
@@ -116,6 +117,7 @@
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="0" height="20">
   </a>
 </div>
+-->
 
 ## Valuable repo's I contributed to
 
@@ -127,6 +129,9 @@
 
 <a href="https://github.com/Nephty/Projet-de-genie-logiciel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nephty&repo=Projet-de-genie-logiciel&theme=tokyonight" />
+</a>
+<a href="https://github.com/Nephty/ReversiAI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nephty&repo=ReversiAI&theme=tokyonight" />
 </a>
 <a href="https://github.com/Exter007/MyUMonsSchedule">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exter007&repo=MyUMonsSchedule&theme=tokyonight" />
