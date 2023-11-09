@@ -120,6 +120,7 @@
 </div>
 -->
 
+<!--
 ## Valuable repo's I contributed to
 
 <div id="vertical_spacer0">
@@ -146,6 +147,7 @@
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="0" height="20">
   </a>
 </div>
+-->
 
 <!-- ## Stats
 
