@@ -60,7 +60,7 @@
   <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
   </a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="Fedora" alt="Fedora" width="40" height="40"/>&nbsp;
 </div>
 </div>
 
