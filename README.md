@@ -10,24 +10,24 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="">
+  <!-- <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="45" height="50">
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/arnaud-moreau-251777223">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100" height="22">
   </a>
-  <a href="">
+  <!-- <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
-  </a>
-  <a href="">
+  </a> -->
+  <!-- <a href="">
     <img src="https://img.shields.io/badge/%20Nephty%236217-Discord-blueviolet?logo=discord&logoColor=white&style=for-the-badge" width="200" height="22">
-  </a>
-  <a href="">
+  </a> -->
+  <!-- <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
-  </a>
-  <a href="">
+  </a> -->
+  <!-- <a href="">
     <img src="https://komarev.com/ghpvc/?username=Nephty&style=for-the-badge&color=orange" width="145" height="22.5"/>
-  </a>
+  </a> -->
 </div>
 
 <div id="vertical_spacer0">
@@ -36,12 +36,12 @@
   </a>
 </div>
 
-## 🖥️ About me
+<!-- ## 🖥️ About me -->
 🇧🇪 ‎ ‎ <b>></b> ‎ From Belgium
 
 🧑‍🎓 ‎ ‎ <b>></b> ‎ Master's degree Computer Science student at University of Mons (2020-2025)
 
-🧑‍💻 ‎ ‎ <b>></b> ‎ Passionate developper
+<!-- 🧑‍💻 ‎ ‎ <b>></b> ‎ Passionate developper -->
 
 <div id="vertical_spacer0">
   <a href="">
@@ -49,38 +49,38 @@
   </a>
 </div>
 
-## 📜 Languages & Tools
-### OS
+<!-- ## 📜 Languages & Tools
+### OS -->
 <div id="os" alignment="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <a href="">
+  <!-- <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
   </a>
   <img src="http://www.freeiconspng.com/uploads/orange-right-arrow-icon-18.png" width="40" height="40"/>&nbsp;
   <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
-  </a>
+  </a> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="Fedora" alt="Fedora" width="40" height="40"/>&nbsp;
 </div>
 </div>
 
-### Tools
+<!-- ### Tools -->
 <div id="tools" alignment="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
   <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
   </a>
   <img src="http://www.freeiconspng.com/uploads/orange-right-arrow-icon-18.png" width="40" height="40"/>&nbsp;
   <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
-  </a>
+  </a> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp; -->
 </div>
 
-### Languages
+<!-- ### Languages -->
 <div id="languages" alignment="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -93,7 +93,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
 
-### Development & productivity tools
+<!-- ### Development & productivity tools
 
 <div id="devtools" alignment="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -102,8 +102,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+</div> -->
 
 <!--
 ### Other tools
