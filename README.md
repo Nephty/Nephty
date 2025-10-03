@@ -39,7 +39,7 @@
 <!-- ## 🖥️ About me -->
 🇧🇪 ‎ ‎ <b>></b> ‎ From Belgium
 
-🖥️   <b>></b>  Software developer at Lisam Systems
+🖥️ ‎ ‎ <b>></b> ‎ Software developer at Lisam Systems
 
 🧑‍🎓 ‎ ‎ <b>></b> ‎ Graduated with a Master's degree in Computer Science student at University of Mons (2020-2025)
 
