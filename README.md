@@ -13,9 +13,9 @@
   <!-- <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="45" height="50">
   </a> -->
-  <a href="https://www.linkedin.com/in/arnaud-moreau-251777223">
+  <!-- <a href="https://www.linkedin.com/in/arnaud-moreau-251777223">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100" height="22">
-  </a>
+  </a> -->
   <!-- <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
   </a> -->
